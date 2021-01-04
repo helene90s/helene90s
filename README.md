@@ -52,7 +52,7 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment d�
 
 <br/>
 
-<h3> 🤝🏻 &nbsp; Merci de votre visite 😇 </h3>
+<h3> 🤝🏻 Merci de votre visite 😇 </h3>
 
 <p align="center">
 
