@@ -24,7 +24,7 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment d�
 * Faire 45 minutes de sport 3 fois par semaine
 * Continuer à pratiquer les langues étrangères (parler avec des amis, ou regarder des séries/films)
 
- ### 🛠 &nbsp;Langages & logiciels <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> : 
+ ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Langages & logiciels : 
 
 
 - 🌐 &nbsp;
