@@ -2,9 +2,9 @@
 # Hello ! :wave::smiley:
 
 <!--Introduction -->
-Je m'appelle Hélène! Je suis **Développeuse Web Junior**  J'ai récemment développé une passion pour le dévelopmment web lorsque j'étais community manager. J’ai tout de suite été intéressée par la possibilité de créer et de concevoir des sites web, le design, comment rendre un site web plus attractif et offrir aux utilisateurs une nouvelle expérience 💻
+Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment développé une passion pour le dévelopemment web lorsque j'étais community manager. J’ai tout de suite été intéressée par la possibilité de créer et de concevoir des sites web, le design, comment rendre un site web plus attractif et offrir aux utilisateurs une nouvelle expérience 💻.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>J'aime découvrir de nouvelles technologies, rencontrer de nouvelles personnes afin d'échanger et de partager nos connaissances. N'hésitez pas à me faire un petit coucou </b> 😁 </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>J'aime découvrir de nouvelles technologies, rencontrer de nouvelles personnes afin d'échanger et de partager nos connaissances. N'hésitez pas à me faire un petit coucou </b> 😁 </em>!
 
 
 
@@ -17,16 +17,14 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**  J'ai récemment dé
 
 ### 🌱 Mes challenges/objectifs pour 2021 :
 
-* Appronfondir et développer mes connaisances sur le front et le back-end 👩‍💻 
+* Approfondir et développer mes connaissances sur le front et le back-end 👩‍💻 
 * Apprendre à coder 5-6 heures par jour sans distraction (avec un ou deux jours de repos par semaine)
-* Créer 1-2 projets par semaine afin de mettre en pratique ce que j'ai appris en formation 
+* Créer 1 projet par semaine afin de mettre en pratique ce que j'ai appris en formation 
 * Lire 2-3 articles par jour sur le développement web et l'UX/UI design
 * Faire 45 minutes de sport 3 fois par semaine
 * Continuer à pratiquer les langues étrangères (parler avec des amis, ou regarder des séries/films)
 
- ### Languages & logiciels <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<h3> 🛠 &nbsp;Langages & logiciels</h3>
+ ### 🛠 &nbsp;Langages & logiciels <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 - 🌐 &nbsp;
