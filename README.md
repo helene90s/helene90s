@@ -2,21 +2,22 @@
 # Hello ! :wave::smiley:
 
 <!--Introduction -->
-Hi I’m Helene! I am a  **Web Developer**. I recently discovered a passion for web development when I was a community manager. I was immediately interested in the possibility of creating and designing websites, design, how to make a website more attractive and give users a new experience💻.
+Hi I’m Helene! I'm a  **Web Developer**. I recently discovered a passion for web development when I was a community manager. I was immediately interested in the possibility of creating and designing websites, design, how to make a website more attractive and give users a new experience💻.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>J'aime découvrir de nouvelles technologies, rencontrer de nouvelles personnes afin d'échanger et de partager nos connaissances. N'hésitez pas à me faire un petit coucou </b> 😁 </em>!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I like to discover new technologies, meet new people in order to exchange and share our knowledge. Do not hesitate to say hello </b> 😁 </em>!
 
+ 
 
 
 <!-- gif Image -->
 <img src="https://github.com/helene90s/helene90s/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-### 📚  Ce que je fais en ce moment : 
+### 📚  What I'm currently doing : 
 * Currently doing an internship
 * Learning React
 * Looking for new opportunities
 
-### 🌱 Mes challenges/objectifs pour 2021 :
+### 🌱 My goals/challenges for 2021 :
 
 * Learn and practice more front-end and back-end👩‍💻
 * Create small projects based on what I've learned
