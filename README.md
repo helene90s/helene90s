@@ -3,6 +3,7 @@
 
 <!--Introduction -->
 Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment développé une passion pour le dévelopemment web lorsque j'étais community manager. J’ai tout de suite été intéressée par la possibilité de créer et de concevoir des sites web, le design, comment rendre un site web plus attractif et offrir aux utilisateurs une nouvelle expérience 💻.
+Hi I’m name is Helene! I am a  **Web Developer**. I recently discovered a passion for web development when I was a community manager. I was immediately interested in the possibility of creating and designing websites, design, how to make a website more attractive and give users a new experience💻.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>J'aime découvrir de nouvelles technologies, rencontrer de nouvelles personnes afin d'échanger et de partager nos connaissances. N'hésitez pas à me faire un petit coucou </b> 😁 </em>!
 
@@ -12,17 +13,18 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment d�
 <img src="https://github.com/helene90s/helene90s/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 📚  Ce que je fais en ce moment : 
-* En stage
-* À la recherche de nouvelles opportunités
+* Currently doing an internship
+* Learning React
+* Looking for new opportunities
 
 ### 🌱 Mes challenges/objectifs pour 2021 :
 
-* Approfondir et développer mes connaissances sur le front et le back-end 👩‍💻 
-* Apprendre à coder 5-6 heures par jour sans distraction (avec un ou deux jours de repos par semaine)
-* Créer 1 projet par semaine afin de mettre en pratique ce que j'ai appris en formation 
-* Lire 2-3 articles par jour sur le développement web et l'UX/UI design
-* Faire 45 minutes de sport 3 fois par semaine
-* Continuer à pratiquer les langues étrangères (parler avec des amis, ou regarder des séries/films)
+* Learn and practice more front-end and back-end👩‍💻
+* Create small projects based on what I've learned
+* Read 2-3 articles per day about the web development, new technologies, UX/UI design
+* Physicals activities twice a week 🚴‍♀️🏋️‍♀️
+* Practice my foreign languages 🇺🇸🇰🇷🇪🇸 (with friends/movies/dramas/music…)
+
 
  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Langages & logiciels : 
 
@@ -52,7 +54,7 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment d�
 
 <br/>
 
-<h3> 🤝🏻 Merci de votre visite 😇 </h3>
+<h3> 🤝🏻 Thanks for visiting 😇 </h3>
 
 <p align="center">
 
