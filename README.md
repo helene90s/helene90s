@@ -2,7 +2,7 @@
 # Hello ! :wave::smiley:
 
 <!--Introduction -->
-Hi I’m name is Helene! I am a  **Web Developer**. I recently discovered a passion for web development when I was a community manager. I was immediately interested in the possibility of creating and designing websites, design, how to make a website more attractive and give users a new experience💻.
+Hi I’m Helene! I am a  **Web Developer**. I recently discovered a passion for web development when I was a community manager. I was immediately interested in the possibility of creating and designing websites, design, how to make a website more attractive and give users a new experience💻.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>J'aime découvrir de nouvelles technologies, rencontrer de nouvelles personnes afin d'échanger et de partager nos connaissances. N'hésitez pas à me faire un petit coucou </b> 😁 </em>!
 
