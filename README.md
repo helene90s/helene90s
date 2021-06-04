@@ -12,8 +12,8 @@ Je m'appelle Hélène! Je suis **Développeuse Web Junior**.  J'ai récemment d�
 <img src="https://github.com/helene90s/helene90s/blob/main/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
 ### 📚  Ce que je fais en ce moment : 
-* En formation Développeuse web / web mobile 
-* À la recherche d'un stage pour mars 2021
+* En stage
+* À la recherche de nouvelles opportunités
 
 ### 🌱 Mes challenges/objectifs pour 2021 :
 
